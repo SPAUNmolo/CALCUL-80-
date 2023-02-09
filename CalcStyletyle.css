@@ -1,0 +1,61 @@
+*{
+    padding: 8px;
+    margin: 0;
+    
+    
+}
+
+
+button{
+    border: 1px solid rgb(153, 153, 153);
+    border-radius: 25px;
+    width: 90px ;
+    height: 75px ;
+    margin-bottom: 5px;
+    margin-left: 4px;
+    font-size: 30px;
+    cursor: pointer;
+    background-color: rgb(207, 255, 255);
+    /* background-color: rgb(248, 255, 224); */
+    
+
+}
+
+input{
+    
+    width: 265px;
+    cursor: pointer;
+    border-radius: 25px;
+    height: 30px;
+    font-size: 30px;
+    text-indent: 10px;
+    background-color: rgb(2248, 255, 224);
+    
+}
+
+.all{
+    
+    width: 310px;
+    background-color: rgb(255, 115, 0);
+    
+    border-radius: 25px;
+   
+    
+    }
+
+.allBut{
+    margin-top: 4px;
+    width: 290px;
+    background-color:  rgb(201, 252, 199);
+    border-radius: 25px;
+       
+}
+
+.allNumber{
+    width: 290px;
+    background-color: rgb(201, 252, 199);
+    border-radius: 25px;
+    
+    
+    
+}
